@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log.env
+.env
+
+.venv/
+.env
