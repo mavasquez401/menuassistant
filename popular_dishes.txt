@@ -1,0 +1,412 @@
+Italian:
+  - Pizza
+  - Pasta
+  - Risotto
+  - Gelato
+  - Tiramisu
+  - Lasagna
+  - Carbonara
+  - Bruschetta
+  - Caprese Salad
+  - Focaccia
+  - Minestrone
+  - Pesto
+  - Ravioli
+  - Gnocchi
+  - Osso Buco
+  - Arancini
+  - Polenta
+  - Panettone
+  - Cannoli
+  - Chianti
+
+Chinese:
+  - Dim Sum
+  - Peking Duck
+  - Sweet and Sour Pork
+  - Kung Pao Chicken
+  - Fried Rice
+  - Spring Rolls
+  - Mapo Tofu
+  - Wonton Soup
+  - Chow Mein
+  - Hot Pot
+  - Dumplings
+  - Char Siu
+  - Congee
+  - Egg Foo Young
+  - Mooncake
+  - Baozi
+  - Sichuan Hotpot
+  - Xiao Long Bao
+  - Buddha’s Delight
+  - Tea Eggs
+
+Mexican:
+  - Tacos
+  - Burritos
+  - Enchiladas
+  - Guacamole
+  - Churros
+  - Quesadillas
+  - Tamales
+  - Pozole
+  - Fajitas
+  - Sopes
+  - Mole
+  - Elote
+  - Chile Relleno
+  - Ceviche
+  - Carnitas
+  - Tostadas
+  - Huevos Rancheros
+  - Flan
+  - Pico de Gallo
+  - Agua Fresca
+
+Indian:
+  - Curry
+  - Biryani
+  - Naan
+  - Samosa
+  - Masala Dosa
+  - Tandoori Chicken
+  - Rogan Josh
+  - Palak Paneer
+  - Chole Bhature
+  - Butter Chicken
+  - Aloo Gobi
+  - Dal Tadka
+  - Pani Puri
+  - Gulab Jamun
+  - Jalebi
+  - Pav Bhaji
+  - Vindaloo
+  - Mutter Paneer
+  - Kheer
+  - Lassi
+
+Japanese:
+  - Sushi
+  - Ramen
+  - Tempura
+  - Sashimi
+  - Teriyaki
+  - Udon
+  - Miso Soup
+  - Takoyaki
+  - Okonomiyaki
+  - Onigiri
+  - Katsu
+  - Gyoza
+  - Mochi
+  - Sukiyaki
+  - Tonkatsu
+  - Yakitori
+  - Shabu-Shabu
+  - Unagi
+  - Natto
+  - Taiyaki
+
+French:
+  - Croissant
+  - Baguette
+  - Coq au Vin
+  - Ratatouille
+  - Crème Brûlée
+  - Bouillabaisse
+  - Quiche
+  - Escargot
+  - Soufflé
+  - Beef Bourguignon
+  - Crepes
+  - Cassoulet
+  - Tarte Tatin
+  - Moules Frites
+  - Pâté
+  - Rillettes
+  - Foie Gras
+  - Duck Confit
+  - Macarons
+  - Canelé
+
+Thai:
+  - Pad Thai
+  - Tom Yum Goong
+  - Green Curry
+  - Som Tum
+  - Mango Sticky Rice
+  - Massaman Curry
+  - Pad See Ew
+  - Khao Soi
+  - Larb
+  - Tom Kha Gai
+  - Satay
+  - Red Curry
+  - Thai Fish Cakes
+  - Boat Noodles
+  - Panang Curry
+  - Jasmine Rice
+  - Khanom Krok
+  - Thai Iced Tea
+  - Miang Kham
+  - Nam Tok
+
+Greek:
+  - Gyro
+  - Moussaka
+  - Souvlaki
+  - Greek Salad
+  - Baklava
+  - Spanakopita
+  - Tzatziki
+  - Dolmades
+  - Kleftiko
+  - Avgolemono Soup
+  - Feta Cheese
+  - Pita Bread
+  - Kalamari
+  - Saganaki
+  - Pastitsio
+  - Gigantes Plaki
+  - Loukoumades
+  - Horiatiki
+  - Koulouri
+  - Kataifi
+
+Spanish:
+  - Paella
+  - Tapas
+  - Churros
+  - Gazpacho
+  - Jamón Ibérico
+  - Tortilla Española
+  - Patatas Bravas
+  - Pimientos de Padrón
+  - Croquetas
+  - Calamares
+  - Bocadillo
+  - Sangria
+  - Empanadas
+  - Fabada
+  - Crema Catalana
+  - Pulpo a la Gallega
+  - Albóndigas
+  - Salmorejo
+  - Manchego Cheese
+  - Turrón
+
+American:
+  - Hamburger
+  - Hot Dog
+  - BBQ Ribs
+  - Apple Pie
+  - Fried Chicken
+  - Mac and Cheese
+  - Buffalo Wings
+  - Clam Chowder
+  - Cornbread
+  - Meatloaf
+  - Jambalaya
+  - Gumbo
+  - Pecan Pie
+  - Cheeseburger
+  - New York Pizza
+  - Lobster Roll
+  - Philly Cheesesteak
+  - Biscuits and Gravy
+  - Pancakes
+  - Chicken Pot Pie
+
+Turkish:
+  - Kebab
+  - Meze
+  - Baklava
+  - Döner
+  - Turkish Delight
+  - Lahmacun
+  - Börek
+  - Pide
+  - Simit
+  - Manti
+  - Imam Bayildi
+  - Iskender Kebab
+  - Kumpir
+  - Menemen
+  - Mercimek Soup
+  - Sucuk
+  - Ezogelin Soup
+  - Köfte
+  - Gözleme
+  - Kunefe
+
+Lebanese:
+  - Hummus
+  - Falafel
+  - Shawarma
+  - Tabouleh
+  - Baklava
+  - Kibbeh
+  - Fattoush
+  - Manakish
+  - Baba Ghanoush
+  - Kafta
+  - Mujadara
+  - Labneh
+  - Arayes
+  - Sfeeha
+  - Knafeh
+  - Warak Enab
+  - Makdous
+  - Foul Mudammas
+  - Shanklish
+  - Lamb Chops
+
+Vietnamese:
+  - Pho
+  - Banh Mi
+  - Spring Rolls
+  - Bun Cha
+  - Cao Lau
+  - Com Tam
+  - Goi Cuon
+  - Nem Ran
+  - Banh Xeo
+  - Banh Cuon
+  - Bo Kho
+  - Canh Chua
+  - Hu Tieu
+  - Mi Quang
+  - Xoi
+  - Che
+  - Ca Phe Trung
+  - Goi Du Du
+  - Thit Kho To
+  - Cha Ca
+
+Korean:
+  - Kimchi
+  - Bibimbap
+  - Bulgogi
+  - Korean BBQ
+  - Tteokbokki
+  - Japchae
+  - Samgyeopsal
+  - Sundubu-jjigae
+  - Galbi
+  - Kimchi Jjigae
+  - Haemul Pajeon
+  - Hoddeok
+  - Gimbap
+  - Jjajangmyeon
+  - Budae Jjigae
+  - Dak Galbi
+  - Naengmyeon
+  - Hanjeongsik
+  - Soondae
+  - Patbingsu
+
+Brazilian:
+  - Feijoada
+  - Churrasco
+  - Brigadeiro
+  - Pão de Queijo
+  - Acarajé
+  - Moqueca
+  - Coxinha
+  - Pastel
+  - Vatapá
+  - Farofa
+  - Picanha
+  - Tapioca
+  - Empadão
+  - Feijão Tropeiro
+  - Quindim
+  - Canjica
+  - Pudim
+  - Bolinhos de Bacalhau
+  - Mandioca Frita
+  - Caipirinha
+
+Ethiopian:
+  - Injera
+  - Doro Wat
+  - Tibs
+  - Kitfo
+  - Sambusa
+  - Shiro
+  - Misir Wot
+  - Kik Alicha
+  - Berbere
+  - Atayef
+  - Firfir
+  - Genfo
+  - Chechebsa
+  - Tihlo
+  - Gomen
+  - Enkulal Firfir
+  - Azifa
+  - Yetsom Beyaynetu
+  - Tegabino Shiro
+  - Awaze
+
+Moroccan:
+  - Tagine
+  - Couscous
+  - Harira
+  - Pastilla
+  - Moroccan Mint Tea
+  - Zaalouk
+  - Rfissa
+  - Briouats
+  - Chebakia
+  - Baghrir
+  - Harsha
+  - Mechoui
+  - Maakouda
+  - Seffa
+  - Khobz
+  - Mrouzia
+  - Batbout
+  - Ghoriba
+  - Sellou
+  - Tanjia
+
+Peruvian:
+  - Ceviche
+  - Lomo Saltado
+  - Aji de Gallina
+  - Anticuchos
+  - Pisco Sour
+  - Rocoto Relleno
+  - Papa a la Huancaína
+  - Arroz con Pollo
+  - Causa Rellena
+  - Tacu Tacu
+  - Leche de Tigre
+  - Pollo a la Brasa
+  - Chicha Morada
+  - Chupe de Camarones
+  - Carapulcra
+  - Lucuma
+  - Picarones
+  - Solterito
+  - Adobo
+  - Quinoa
+
+Indonesian:
+  - Nasi Goreng
+  - Satay
+  - Rendang
+  - Gado-Gado
+  - Bakso
+  - Soto
+  - Martabak
+  - Gudeg
+  - Ayam Goreng
+  - Pempek
+  - Lumpia
+  - Tempeh
+  - Ikan Bakar
+  - Mie Goreng
+
