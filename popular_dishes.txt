@@ -1,412 +1,413 @@
 Italian:
-  - Pizza
-  - Pasta
-  - Risotto
-  - Gelato
-  - Tiramisu
-  - Lasagna
-  - Carbonara
-  - Bruschetta
-  - Caprese Salad
-  - Focaccia
-  - Minestrone
-  - Pesto
-  - Ravioli
-  - Gnocchi
-  - Osso Buco
-  - Arancini
-  - Polenta
-  - Panettone
-  - Cannoli
-  - Chianti
+
+Pizza: Dough, Tomato sauce, Mozzarella cheese, Olive oil, Basil
+Pasta: Pasta, Olive oil, Garlic, Parmesan cheese
+Risotto: Arborio rice, Butter, Onion, White wine, Parmesan cheese
+Gelato: Milk, Sugar, Cream, Egg yolks
+Tiramisu: Mascarpone cheese, Ladyfingers, Coffee, Egg yolks, Sugar, Cocoa powder
+Lasagna: Lasagna noodles, Ground beef, Ricotta cheese, Mozzarella cheese, Parmesan cheese, Tomato sauce
+Carbonara: Spaghetti, Eggs, Pancetta, Parmesan cheese, Olive oil
+Bruschetta: Bread, Tomatoes, Garlic, Olive oil, Basil
+Caprese Salad: Tomatoes, Mozzarella cheese, Basil, Olive oil
+Focaccia: Dough, Olive oil, Garlic
+Minestrone: Pasta, Beans, Tomatoes, Carrots, Celery, Onion, Zucchini
+Pesto: Basil, Pine nuts, Parmesan cheese, Olive oil, Garlic
+Ravioli: Dough, Ricotta cheese, Spinach
+Gnocchi: Potatoes, Flour, Egg
+Osso Buco: Veal shanks, Celery, Carrots, Onion, Tomatoes, White wine
+Arancini: Arborio rice, Mozzarella cheese, Eggs, Breadcrumbs
+Polenta: Cornmeal, Butter, Parmesan cheese
+Panettone: Flour, Eggs, Butter, Sugar, Milk, Dried fruits
+Cannoli: Dough, Ricotta cheese, Sugar, Chocolate chips
+Chianti: Wine
+
 
 Chinese:
-  - Dim Sum
-  - Peking Duck
-  - Sweet and Sour Pork
-  - Kung Pao Chicken
-  - Fried Rice
-  - Spring Rolls
-  - Mapo Tofu
-  - Wonton Soup
-  - Chow Mein
-  - Hot Pot
-  - Dumplings
-  - Char Siu
-  - Congee
-  - Egg Foo Young
-  - Mooncake
-  - Baozi
-  - Sichuan Hotpot
-  - Xiao Long Bao
-  - Buddha’s Delight
-  - Tea Eggs
+Dim Sum: Dough, Pork, Shrimp, Vegetables
+Peking Duck: Duck, Hoisin sauce, Scallions, Cucumbers, Pancakes
+Sweet and Sour Pork: Pork, Pineapple, Bell peppers, Onion, Vinegar, Sugar, Ketchup
+Kung Pao Chicken: Chicken, Peanuts, Bell peppers, Onion, Soy sauce
+Fried Rice: Rice, Eggs, Peas, Carrots, Soy sauce
+Spring Rolls: Rice paper, Vegetables, Shrimp or Pork
+Mapo Tofu: Tofu, Ground pork, Garlic, Soy sauce, Bean paste
+Wonton Soup: Wonton wrappers, Ground pork, Shrimp, Green onions, Chicken broth
+Chow Mein: Noodles, Vegetables, Chicken or Beef, Soy sauce
+Hot Pot: Meat, Seafood, Vegetables, Broth
+Dumplings: Dough, Ground pork, Cabbage, Green onions
+Char Siu: Pork, Honey, Soy sauce
+Congee: Rice, Chicken or Pork, Ginger
+Egg Foo Young: Eggs, Bean sprouts, Green onions, Shrimp or Pork
+Mooncake: Dough, Red bean paste or Lotus seed paste, Salted egg yolks
+Baozi: Dough, Ground pork, Vegetables
+Sichuan Hotpot: Meat, Vegetables, Broth
+Xiao Long Bao: Dough, Pork, Broth
+Buddha’s Delight: Tofu, Vegetables, Soy sauce
+Tea Eggs: Eggs, Tea, Soy sauce
 
 Mexican:
-  - Tacos
-  - Burritos
-  - Enchiladas
-  - Guacamole
-  - Churros
-  - Quesadillas
-  - Tamales
-  - Pozole
-  - Fajitas
-  - Sopes
-  - Mole
-  - Elote
-  - Chile Relleno
-  - Ceviche
-  - Carnitas
-  - Tostadas
-  - Huevos Rancheros
-  - Flan
-  - Pico de Gallo
-  - Agua Fresca
+Tacos: Tortillas, Beef or Chicken, Lettuce, Tomatoes, Cheese
+Burritos: Tortillas, Rice, Beans, Beef or Chicken, Cheese
+Enchiladas: Tortillas, Chicken or Beef, Cheese, Tomato sauce
+Guacamole: Avocado, Onion, Tomato, Lime juice
+Churros: Dough, Sugar, Cinnamon
+Quesadillas: Tortillas, Cheese, Chicken or Beef
+Tamales: Corn husks, Masa dough, Pork or Chicken
+Pozole: Hominy, Pork, Lettuce, Radishes
+Fajitas: Beef or Chicken, Bell peppers, Onions, Tortillas
+Sopes: Masa dough, Beans, Lettuce, Cheese
+Mole: Chicken, Chocolate, Nuts
+Elote: Corn, Butter, Cheese
+Chile Relleno: Poblano peppers, Cheese, Eggs
+Ceviche: Fish, Lime juice, Tomatoes, Onions
+Carnitas: Pork, Orange juice, Milk
+Tostadas: Tortillas, Beans, Lettuce, Cheese
+Huevos Rancheros: Eggs, Tortillas, Tomatoes
+Flan: Eggs, Milk, Sugar
+Pico de Gallo: Tomatoes, Onion, Cilantro, Lime juice
+Agua Fresca: Water, Fruit, Sugar
 
 Indian:
-  - Curry
-  - Biryani
-  - Naan
-  - Samosa
-  - Masala Dosa
-  - Tandoori Chicken
-  - Rogan Josh
-  - Palak Paneer
-  - Chole Bhature
-  - Butter Chicken
-  - Aloo Gobi
-  - Dal Tadka
-  - Pani Puri
-  - Gulab Jamun
-  - Jalebi
-  - Pav Bhaji
-  - Vindaloo
-  - Mutter Paneer
-  - Kheer
-  - Lassi
+Curry: Meat or Vegetables, Onion, Garlic, Tomatoes, Coconut milk
+Biryani: Rice, Chicken or Lamb, Yogurt, Onion
+Naan: Flour, Yogurt, Milk
+Samosa: Dough, Potatoes, Peas
+Masala Dosa: Rice batter, Potatoes, Onion
+Tandoori Chicken: Chicken, Yogurt, Lemon juice
+Rogan Josh: Lamb, Yogurt, Onion, Garlic
+Palak Paneer: Spinach, Paneer, Onion, Tomatoes
+Chole Bhature: Chickpeas, Flour, Yogurt
+Butter Chicken: Chicken, Butter, Cream, Tomatoes
+Aloo Gobi: Potatoes, Cauliflower, Onion, Garlic
+Dal Tadka: Lentils, Onion, Garlic, Tomatoes
+Pani Puri: Semolina, Potatoes, Chickpeas, Tamarind
+Gulab Jamun: Milk powder, Flour, Sugar, Milk
+Jalebi: Flour, Yogurt, Sugar
+Pav Bhaji: Bread, Potatoes, Peas, Tomatoes
+Vindaloo: Pork, Vinegar, Onion, Garlic
+Mutter Paneer: Peas, Paneer, Onion, Tomatoes
+Kheer: Rice, Milk, Sugar
+Lassi: Yogurt, Water, Sugar
 
 Japanese:
-  - Sushi
-  - Ramen
-  - Tempura
-  - Sashimi
-  - Teriyaki
-  - Udon
-  - Miso Soup
-  - Takoyaki
-  - Okonomiyaki
-  - Onigiri
-  - Katsu
-  - Gyoza
-  - Mochi
-  - Sukiyaki
-  - Tonkatsu
-  - Yakitori
-  - Shabu-Shabu
-  - Unagi
-  - Natto
-  - Taiyaki
+Sushi: Rice, Seaweed, Fish
+Ramen: Noodles, Pork, Egg, Broth
+Tempura: Shrimp or Vegetables, Flour, Egg
+Sashimi: Fish
+Teriyaki: Chicken or Beef, Soy sauce, Sugar
+Udon: Noodles, Broth, Green onions
+Miso Soup: Miso paste, Tofu, Seaweed
+Takoyaki: Octopus, Flour, Egg
+Okonomiyaki: Cabbage, Flour, Egg
+Onigiri: Rice, Seaweed, Fish or Vegetables
+Katsu: Pork, Flour, Egg, Breadcrumbs
+Gyoza: Dough, Ground pork, Cabbage
+Mochi: Rice flour, Red bean paste
+Sukiyaki: Beef, Tofu, Vegetables, Soy sauce
+Tonkatsu: Pork, Flour, Egg, Breadcrumbs
+Yakitori: Chicken, Soy sauce, Sugar
+Shabu-Shabu: Meat, Vegetables, Broth
+Unagi: Eel, Soy sauce, Sugar
+Natto: Fermented soybeans
+Taiyaki: Dough, Red bean paste
 
 French:
-  - Croissant
-  - Baguette
-  - Coq au Vin
-  - Ratatouille
-  - Crème Brûlée
-  - Bouillabaisse
-  - Quiche
-  - Escargot
-  - Soufflé
-  - Beef Bourguignon
-  - Crepes
-  - Cassoulet
-  - Tarte Tatin
-  - Moules Frites
-  - Pâté
-  - Rillettes
-  - Foie Gras
-  - Duck Confit
-  - Macarons
-  - Canelé
+Croissant: Flour, Butter, Milk
+Baguette: Flour, Water, Yeast
+Coq au Vin: Chicken, Red wine, Mushrooms, Onion
+Ratatouille: Eggplant, Zucchini, Tomatoes, Onion, Bell peppers
+Crème Brûlée: Cream, Sugar, Egg yolks
+Bouillabaisse: Fish, Tomatoes, Onion, Garlic
+Quiche: Flour, Eggs, Cream, Cheese, Ham or Vegetables
+Escargot: Snails, Butter, Garlic
+Soufflé: Eggs, Butter, Milk, Cheese
+Beef Bourguignon: Beef, Red wine, Onion, Carrots
+Crepes: Flour, Eggs, Milk
+Cassoulet: Beans, Pork, Sausage
+Tarte Tatin: Apples, Flour, Butter, Sugar
+Moules Frites: Mussels, Potatoes, White wine
+Pâté: Liver, Butter, Onion
+Rillettes: Pork, Duck or Goose, Fat
+Foie Gras: Duck liver, Butter
+Duck Confit: Duck, Duck fat
+Macarons: Almond flour, Egg whites, Sugar
+Canelé: Flour, Milk, Sugar, Egg yolks
 
 Thai:
-  - Pad Thai
-  - Tom Yum Goong
-  - Green Curry
-  - Som Tum
-  - Mango Sticky Rice
-  - Massaman Curry
-  - Pad See Ew
-  - Khao Soi
-  - Larb
-  - Tom Kha Gai
-  - Satay
-  - Red Curry
-  - Thai Fish Cakes
-  - Boat Noodles
-  - Panang Curry
-  - Jasmine Rice
-  - Khanom Krok
-  - Thai Iced Tea
-  - Miang Kham
-  - Nam Tok
+Pad Thai: Rice noodles, Shrimp or Chicken, Eggs, Bean sprouts
+Tom Yum Goong: Shrimp, Lemongrass, Lime juice
+Green Curry: Chicken, Coconut milk, Eggplant
+Som Tum: Green papaya, Tomatoes, Lime juice
+Mango Sticky Rice: Mango, Sticky rice, Coconut milk
+Massaman Curry: Beef, Coconut milk, Potatoes
+Pad See Ew: Rice noodles, Chicken or Beef, Eggs
+Khao Soi: Noodles, Chicken, Coconut milk
+Larb: Ground meat, Lime juice, Rice powder
+Tom Kha Gai: Chicken, Coconut milk, Lime juice
+Satay: Chicken or Beef, Peanut sauce
+Red Curry: Chicken, Coconut milk, Bamboo shoots
+Thai Fish Cakes: Fish, Green beans, Eggs
+Boat Noodles: Pork, Noodles, Beef broth
+Panang Curry: Beef, Coconut milk, Bell peppers
+Jasmine Rice: Jasmine rice
+Khanom Krok: Rice flour, Coconut milk
+Thai Iced Tea: Tea, Condensed milk, Sugar
+Miang Kham: Betel leaves, Dried shrimp, Coconut
+Nam Tok: Beef, Lime juice, Mint
 
 Greek:
-  - Gyro
-  - Moussaka
-  - Souvlaki
-  - Greek Salad
-  - Baklava
-  - Spanakopita
-  - Tzatziki
-  - Dolmades
-  - Kleftiko
-  - Avgolemono Soup
-  - Feta Cheese
-  - Pita Bread
-  - Kalamari
-  - Saganaki
-  - Pastitsio
-  - Gigantes Plaki
-  - Loukoumades
-  - Horiatiki
-  - Koulouri
-  - Kataifi
+Gyro: Lamb or Chicken, Pita bread, Tzatziki sauce
+Moussaka: Eggplant, Ground beef, Béchamel sauce
+Souvlaki: Pork or Chicken, Pita bread
+Greek Salad: Tomatoes, Cucumber, Onion, Feta cheese, Olives
+Baklava: Phyllo dough, Walnuts, Honey
+Spanakopita: Phyllo dough, Spinach, Feta cheese
+Tzatziki: Yogurt, Cucumber, Garlic
+Dolmades: Grape leaves, Rice, Lemon juice
+Kleftiko: Lamb, Potatoes, Lemon juice
+Avgolemono Soup: Chicken, Lemon juice, Eggs, Rice
+Feta Cheese: Feta cheese
+Pita Bread: Flour, Yeast, Water
+Kalamari: Squid, Flour, Lemon juice
+Saganaki: Cheese, Flour, Lemon juice
+Pastitsio: Pasta, Ground beef, Béchamel sauce
+Gigantes Plaki: Giant beans, Tomatoes, Onion
+Loukoumades: Dough, Honey
+Horiatiki: Tomatoes, Cucumber, Onion, Feta cheese, Olives
+Koulouri: Flour, Sesame seeds, Water
+Kataifi: Phyllo dough, Walnuts, Honey
 
 Spanish:
-  - Paella
-  - Tapas
-  - Churros
-  - Gazpacho
-  - Jamón Ibérico
-  - Tortilla Española
-  - Patatas Bravas
-  - Pimientos de Padrón
-  - Croquetas
-  - Calamares
-  - Bocadillo
-  - Sangria
-  - Empanadas
-  - Fabada
-  - Crema Catalana
-  - Pulpo a la Gallega
-  - Albóndigas
-  - Salmorejo
-  - Manchego Cheese
-  - Turrón
+Paella: Rice, Seafood, Chicken, Peas, Bell peppers
+Tapas: Variety of small dishes (e.g., olives, cheese, ham)
+Churros: Dough, Sugar
+Gazpacho: Tomatoes, Cucumber, Bell peppers, Onion
+Jamón Ibérico: Cured ham
+Tortilla Española: Eggs, Potatoes, Onion
+Patatas Bravas: Potatoes, Tomato sauce
+Pimientos de Padrón: Green peppers, Olive oil
+Croquetas: Ham or Chicken, Flour, Milk
+Calamares: Squid, Flour, Lemon juice
+Bocadillo: Bread, Ham, Cheese
+Sangria: Wine, Fruit juice
+Empanadas: Dough, Beef or Chicken, Onion
+Fabada: Beans, Pork, Sausage
+Crema Catalana: Milk, Sugar, Egg yolks
+Pulpo a la Gallega: Octopus, Potatoes, Olive oil
+Albóndigas: Ground beef, Breadcrumbs, Onion
+Salmorejo: Tomatoes, Bread, Garlic
+Manchego Cheese: Manchego cheese
+Turrón: Almonds, Honey, Egg whites
 
 American:
-  - Hamburger
-  - Hot Dog
-  - BBQ Ribs
-  - Apple Pie
-  - Fried Chicken
-  - Mac and Cheese
-  - Buffalo Wings
-  - Clam Chowder
-  - Cornbread
-  - Meatloaf
-  - Jambalaya
-  - Gumbo
-  - Pecan Pie
-  - Cheeseburger
-  - New York Pizza
-  - Lobster Roll
-  - Philly Cheesesteak
-  - Biscuits and Gravy
-  - Pancakes
-  - Chicken Pot Pie
+Hamburger: Ground beef, Bun, Lettuce, Tomato, Cheese
+Hot Dog: Sausage, Bun, Onion, Relish
+BBQ Ribs: Pork ribs, BBQ sauce
+Apple Pie: Apples, Flour, Butter, Sugar
+Fried Chicken: Chicken, Flour, Buttermilk
+Mac and Cheese: Macaroni, Cheese, Milk, Butter
+Buffalo Wings: Chicken wings, Hot sauce, Butter
+Clam Chowder: Clams, Potatoes, Cream, Onion
+Cornbread: Cornmeal, Flour, Milk, Eggs
+Meatloaf: Ground beef, Breadcrumbs, Onion, Eggs
+Jambalaya: Rice, Sausage, Chicken, Shrimp, Tomatoes, Onion
+Gumbo: Okra, Sausage, Chicken, Shrimp, Tomatoes, Onion
+Pecan Pie: Pecans, Corn syrup, Eggs, Sugar
+Cheeseburger: Ground beef, Bun, Cheese, Lettuce, Tomato
+New York Pizza: Dough, Tomato sauce, Mozzarella cheese
+Lobster Roll: Lobster, Bun, Mayonnaise
+Philly Cheesesteak: Beef, Cheese, Onions, Hoagie roll
+Biscuits and Gravy: Biscuits, Sausage, Milk
+Pancakes: Flour, Milk, Eggs, Butter
+Chicken Pot Pie: Chicken, Vegetables, Pie crust
 
 Turkish:
-  - Kebab
-  - Meze
-  - Baklava
-  - Döner
-  - Turkish Delight
-  - Lahmacun
-  - Börek
-  - Pide
-  - Simit
-  - Manti
-  - Imam Bayildi
-  - Iskender Kebab
-  - Kumpir
-  - Menemen
-  - Mercimek Soup
-  - Sucuk
-  - Ezogelin Soup
-  - Köfte
-  - Gözleme
-  - Kunefe
+Kebab: Lamb or Chicken, Yogurt, Onion
+Meze: Variety of small dishes (e.g., hummus, yogurt, eggplant)
+Baklava: Phyllo dough, Walnuts, Honey
+Döner: Lamb or Chicken, Pita bread, Yogurt
+Turkish Delight: Sugar, Cornstarch, Nuts
+Lahmacun: Dough, Ground beef, Tomatoes, Onion
+Börek: Phyllo dough, Cheese or Meat
+Pide: Dough, Cheese, Ground beef or Lamb
+Simit: Dough, Sesame seeds
+Manti: Dough, Ground beef, Yogurt
+Imam Bayildi: Eggplant, Tomatoes, Onion
+Iskender Kebab: Lamb or Chicken, Pita bread, Yogurt
+Kumpir: Potatoes, Cheese, Sausage
+Menemen: Eggs, Tomatoes, Peppers
+Mercimek Soup: Lentils, Onion, Carrots
+Sucuk: Sausage
+Ezogelin Soup: Lentils, Rice, Onion
+Köfte: Ground beef or Lamb, Onion, Breadcrumbs
+Gözleme: Dough, Cheese, Spinach
+Kunefe: Cheese, Phyllo dough, Sugar
 
 Lebanese:
-  - Hummus
-  - Falafel
-  - Shawarma
-  - Tabouleh
-  - Baklava
-  - Kibbeh
-  - Fattoush
-  - Manakish
-  - Baba Ghanoush
-  - Kafta
-  - Mujadara
-  - Labneh
-  - Arayes
-  - Sfeeha
-  - Knafeh
-  - Warak Enab
-  - Makdous
-  - Foul Mudammas
-  - Shanklish
-  - Lamb Chops
+Hummus: Chickpeas, Tahini, Lemon juice
+Falafel: Chickpeas, Onion, Parsley
+Shawarma: Lamb or Chicken, Pita bread, Yogurt
+Tabouleh: Parsley, Bulgur, Tomatoes, Onion, Lemon juice
+Baklava: Phyllo dough, Walnuts, Honey
+Kibbeh: Ground beef or Lamb, Bulgur, Onion
+Fattoush: Lettuce, Tomatoes, Cucumber, Onion, Pita bread
+Manakish: Dough, Cheese or Ground meat
+Baba Ghanoush: Eggplant, Tahini, Lemon juice
+Kafta: Ground beef or Lamb, Onion, Parsley
+Mujadara: Lentils, Rice, Onion
+Labneh: Yogurt
+Arayes: Pita bread, Ground beef or Lamb, Tomatoes
+Sfeeha: Dough, Ground beef or Lamb, Tomatoes, Onion
+Knafeh: Dough, Cheese, Sugar
+Warak Enab: Grape leaves, Rice, Lemon juice
+Makdous: Eggplant, Walnuts
+Foul Mudammas: Fava beans, Lemon juice, Garlic
+Shanklish: Cheese, Tomatoes, Onion
+Lamb Chops: Lamb, Lemon juice
 
 Vietnamese:
-  - Pho
-  - Banh Mi
-  - Spring Rolls
-  - Bun Cha
-  - Cao Lau
-  - Com Tam
-  - Goi Cuon
-  - Nem Ran
-  - Banh Xeo
-  - Banh Cuon
-  - Bo Kho
-  - Canh Chua
-  - Hu Tieu
-  - Mi Quang
-  - Xoi
-  - Che
-  - Ca Phe Trung
-  - Goi Du Du
-  - Thit Kho To
-  - Cha Ca
+Pho: Beef, Rice noodles, Onion
+Banh Mi: Baguette, Pork, Pickled vegetables
+Spring Rolls: Rice paper, Shrimp or Pork, Vegetables
+Bun Cha: Pork, Noodles, Herbs
+Cao Lau: Noodles, Pork, Lettuce
+Com Tam: Broken rice, Pork, Eggs
+Goi Cuon: Rice paper, Shrimp or Pork, Vegetables
+Nem Ran: Dough, Pork, Vegetables
+Banh Xeo: Rice flour, Shrimp or Pork, Bean sprouts
+Banh Cuon: Rice flour, Ground pork, Mushrooms
+Bo Kho: Beef, Carrots, Lemongrass
+Canh Chua: Fish, Pineapple, Tomatoes
+Hu Tieu: Noodles, Pork, Shrimp
+Mi Quang: Noodles, Pork, Shrimp
+Xoi: Sticky rice
+Che: Coconut milk, Mung beans, Sugar
+Ca Phe Trung: Egg, Coffee, Sugar
+Goi Du Du: Papaya, Shrimp, Herbs
+Thit Kho To: Pork, Coconut water
+Cha Ca: Fish, Dill
 
 Korean:
-  - Kimchi
-  - Bibimbap
-  - Bulgogi
-  - Korean BBQ
-  - Tteokbokki
-  - Japchae
-  - Samgyeopsal
-  - Sundubu-jjigae
-  - Galbi
-  - Kimchi Jjigae
-  - Haemul Pajeon
-  - Hoddeok
-  - Gimbap
-  - Jjajangmyeon
-  - Budae Jjigae
-  - Dak Galbi
-  - Naengmyeon
-  - Hanjeongsik
-  - Soondae
-  - Patbingsu
+Kimchi: Cabbage, Radishes, Garlic
+Bibimbap: Rice, Vegetables, Beef, Egg
+Bulgogi: Beef, Pear, Soy sauce
+Korean BBQ: Beef, Pork, Lettuce
+Tteokbokki: Rice cakes, Fish cakes, Green onions
+Japchae: Noodles, Vegetables, Beef
+Samgyeopsal: Pork belly, Lettuce
+Sundubu-jjigae: Tofu, Vegetables, Seafood
+Galbi: Beef ribs, Soy sauce
+Kimchi Jjigae: Kimchi, Pork, Tofu
+Haemul Pajeon: Seafood, Green onions, Flour
+Hoddeok: Dough, Brown sugar, Nuts
+Gimbap: Rice, Seaweed, Vegetables, Beef or Fish
+Jjajangmyeon: Noodles, Pork, Black bean paste
+Budae Jjigae: Sausage, Tofu, Kimchi, Noodles
+Dak Galbi: Chicken, Sweet potatoes, Cabbage
+Naengmyeon: Noodles, Beef, Cucumber
+Hanjeongsik: Rice, Meat, Vegetables
+Soondae: Blood sausage, Noodles, Barley
+Patbingsu: Shaved ice, Red beans, Sweetened condensed milk
 
 Brazilian:
-  - Feijoada
-  - Churrasco
-  - Brigadeiro
-  - Pão de Queijo
-  - Acarajé
-  - Moqueca
-  - Coxinha
-  - Pastel
-  - Vatapá
-  - Farofa
-  - Picanha
-  - Tapioca
-  - Empadão
-  - Feijão Tropeiro
-  - Quindim
-  - Canjica
-  - Pudim
-  - Bolinhos de Bacalhau
-  - Mandioca Frita
-  - Caipirinha
+Feijoada: Black beans, Pork, Beef
+Churrasco: Beef, Chicken, Sausage
+Brigadeiro: Condensed milk, Butter, Cocoa powder
+Pão de Queijo: Tapioca flour, Cheese, Eggs
+Acarajé: Black-eyed peas, Shrimp
+Moqueca: Fish, Coconut milk, Tomatoes
+Coxinha: Chicken, Dough, Cream cheese
+Pastel: Dough, Beef or Chicken, Cheese
+Vatapá: Shrimp, Bread, Coconut milk
+Farofa: Cassava flour, Butter, Bacon
+Picanha: Beef
+Tapioca: Tapioca flour
+Empadão: Dough, Chicken, Vegetables
+Feijão Tropeiro: Beans, Sausage, Eggs
+Quindim: Eggs, Sugar, Coconut
+Canjica: Corn, Milk, Sugar
+Pudim: Milk, Eggs, Sugar
+Bolinhos de Bacalhau: Cod, Potatoes, Eggs
+Mandioca Frita: Cassava
+Caipirinha: Cachaça, Lime, Sugar
 
 Ethiopian:
-  - Injera
-  - Doro Wat
-  - Tibs
-  - Kitfo
-  - Sambusa
-  - Shiro
-  - Misir Wot
-  - Kik Alicha
-  - Berbere
-  - Atayef
-  - Firfir
-  - Genfo
-  - Chechebsa
-  - Tihlo
-  - Gomen
-  - Enkulal Firfir
-  - Azifa
-  - Yetsom Beyaynetu
-  - Tegabino Shiro
-  - Awaze
+Injera: Teff flour, Water
+Doro Wat: Chicken, Onion, Garlic
+Tibs: Beef or Lamb, Onion, Garlic
+Kitfo: Beef, Butter
+Sambusa: Dough, Lentils or Meat
+Shiro: Chickpea flour, Onion
+Misir Wot: Lentils, Onion, Garlic
+Kik Alicha: Split peas, Onion
+Berbere: Chili peppers, Garlic
+Atayef: Dough, Nuts, Sugar
+Firfir: Injera, Butter
+Genfo: Barley flour, Butter
+Chechebsa: Bread, Butter
+Tihlo: Barley dough, Butter
+Gomen: Collard greens, Onion
+Enkulal Firfir: Eggs, Butter
+Azifa: Lentils, Onion
+Yetsom Beyaynetu: Variety of lentil and vegetable dishes
+Tegabino Shiro: Chickpea flour, Onion
+Awaze: Pepper, Garlic, Ginger
 
 Moroccan:
-  - Tagine
-  - Couscous
-  - Harira
-  - Pastilla
-  - Moroccan Mint Tea
-  - Zaalouk
-  - Rfissa
-  - Briouats
-  - Chebakia
-  - Baghrir
-  - Harsha
-  - Mechoui
-  - Maakouda
-  - Seffa
-  - Khobz
-  - Mrouzia
-  - Batbout
-  - Ghoriba
-  - Sellou
-  - Tanjia
+Tagine: Chicken or Lamb, Vegetables, Olives
+Couscous: Couscous, Vegetables, Chickpeas
+Harira: Lentils, Tomatoes, Onion
+Pastilla: Phyllo dough, Chicken or Pigeon, Almonds
+Moroccan Mint Tea: Green tea, Mint, Sugar
+Zaalouk: Eggplant, Tomatoes, Garlic
+Rfissa: Chicken, Lentils, Bread
+Briouats: Phyllo dough, Ground meat, Almonds
+Chebakia: Dough, Honey, Sesame seeds
+Baghrir: Semolina, Flour, Yeast
+Harsha: Semolina, Butter, Milk
+Mechoui: Lamb
+Maakouda: Potatoes, Flour, Eggs
+Seffa: Couscous, Almonds, Cinnamon
+Khobz: Flour, Yeast, Water
+Mrouzia: Lamb, Almonds, Raisins
+Batbout: Semolina, Yeast, Water
+Ghoriba: Flour, Almonds, Sugar
+Sellou: Almonds, Flour, Butter
+Tanjia: Beef or Lamb, Lemon, Olives
 
 Peruvian:
-  - Ceviche
-  - Lomo Saltado
-  - Aji de Gallina
-  - Anticuchos
-  - Pisco Sour
-  - Rocoto Relleno
-  - Papa a la Huancaína
-  - Arroz con Pollo
-  - Causa Rellena
-  - Tacu Tacu
-  - Leche de Tigre
-  - Pollo a la Brasa
-  - Chicha Morada
-  - Chupe de Camarones
-  - Carapulcra
-  - Lucuma
-  - Picarones
-  - Solterito
-  - Adobo
-  - Quinoa
+Ceviche: Fish, Lime juice, Onion, Sweet potato
+Lomo Saltado: Beef, Tomatoes, Onion, Potatoes
+Aji de Gallina: Chicken, Bread, Milk
+Anticuchos: Beef heart, Vinegar, Garlic
+Pisco Sour: Pisco, Lime juice, Egg white
+Rocoto Relleno: Peppers, Beef, Cheese
+Papa a la Huancaína: Potatoes, Cheese, Milk
+Arroz con Pollo: Rice, Chicken, Vegetables
+Causa Rellena: Potatoes, Tuna or Chicken, Avocado
+Tacu Tacu: Beans, Rice, Onion
+Leche de Tigre: Fish, Lime juice, Onion
+Pollo a la Brasa: Chicken
+Chicha Morada: Purple corn, Pineapple, Apple
+Chupe de Camarones: Shrimp, Potatoes, Milk
+Carapulcra: Pork, Potatoes, Peanuts
+Lucuma: Lucuma fruit
+Picarones: Dough, Sweet potato, Pumpkin
+Solterito: Beans, Cheese, Tomatoes
+Adobo: Pork, Vinegar, Garlic
+Quinoa: Quinoa
 
 Indonesian:
-  - Nasi Goreng
-  - Satay
-  - Rendang
-  - Gado-Gado
-  - Bakso
-  - Soto
-  - Martabak
-  - Gudeg
-  - Ayam Goreng
-  - Pempek
-  - Lumpia
-  - Tempeh
-  - Ikan Bakar
-  - Mie Goreng
-
+Nasi Goreng: Rice, Chicken or Shrimp, Eggs, Vegetables
+Satay: Chicken or Beef, Peanut sauce
+Rendang: Beef, Coconut milk, Lemongrass
+Gado-Gado: Vegetables, Tofu, Peanut sauce
+Bakso: Meatballs, Noodles, Broth
+Soto: Chicken, Noodles, Broth
+Martabak: Dough, Eggs, Meat
+Gudeg: Jackfruit, Coconut milk
+Ayam Goreng: Chicken, Flour
+Pempek: Fish, Tapioca flour
+Lumpia: Dough, Vegetables, Meat
+Tempeh: Fermented soybeans
+Ikan Bakar: Fish, Lemongrass
+Mie Goreng: Noodles, Chicken or Shrimp, Vegetables

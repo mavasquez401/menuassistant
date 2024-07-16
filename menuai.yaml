@@ -1,0 +1,146 @@
+openapi: 3.1.0
+info:
+  version: 1.0.0
+  title: Food Search API
+  license:
+    name: MIT
+servers:
+  - url: https://platform.fatsecret.com/rest/server.api
+paths:
+  /:
+    get:
+      summary: Search for foods
+      operationId: foodGetV4
+      tags:
+        - foods
+      parameters:
+        - name: method
+          in: query
+          required: true
+          schema:
+            type: string
+          example: food.get.v4
+        - name: search_expression
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: page_number
+          in: query
+          required: false
+          schema:
+            type: integer
+            format: int32
+        - name: max_results
+          in: query
+          required: false
+          schema:
+            type: integer
+            format: int32
+            maximum: 50
+        - name: include_sub_categories
+          in: query
+          required: false
+          schema:
+            type: boolean
+        - name: include_food_images
+          in: query
+          required: false
+          schema:
+            type: boolean
+        - name: include_food_attributes
+          in: query
+          required: false
+          schema:
+            type: boolean
+        - name: flag_default_serving
+          in: query
+          required: false
+          schema:
+            type: boolean
+        - name: region
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: language
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: format
+          in: query
+          required: false
+          schema:
+            type: string
+            enum:
+              - xml
+              - json
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Foods'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Foods'
+        default:
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Error'
+      security:
+        - OAuth2: []
+components:
+  schemas:
+    Food:
+      type: object
+      required:
+        - id
+        - name
+      properties:
+        id:
+          type: integer
+          format: int64
+        name:
+          type: string
+        sub_category:
+          type: string
+        image_url:
+          type: string
+        dietary_preferences:
+          type: array
+          items:
+            type: string
+        allergens:
+          type: array
+          items:
+            type: string
+        default_serving:
+          type: boolean
+    Foods:
+      type: array
+      items:
+        $ref: '#/components/schemas/Food'
+    Error:
+      type: object
+      required:
+        - code
+        - message
+      properties:
+        code:
+          type: integer
+          format: int32
+        message:
+          type: string
+  securitySchemes:
+    OAuth2:
+      type: oauth2
+      flows:
+        clientCredentials:
+          tokenUrl: https://platform.fatsecret.com/oauth/token
+          scopes: {}
