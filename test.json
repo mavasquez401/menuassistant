@@ -1,0 +1,46 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Get food data",
+    "description": "Retrieves foods and their nutritional information",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://platform.fatsecret.com/rest"
+    }
+  ],
+  "paths": {
+    "/server.api": {
+      "get": {
+        "description": "Get temperature for a specific location",
+        "operationId": "search foods",
+        "parameters": [
+          {
+            "name": "method",
+            "in": "query",
+            "value": "foods.search.v3",
+            "description": "static value for endpoint",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "search_expression",
+            "in": "query",
+            "description": "the name of the food being searched",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "deprecated": false
+      }
+    }
+  },
+  "components": {
+    "schemas": {}
+  }
+}
